@@ -20,7 +20,7 @@ Background:  ReStore accepts donations at loading dock at the back of their down
 | Date | Date of Donation
 | DayOfWeek | Day of the week.  Not consistently populated but can be used to validate that the date field is correct. |
 | Type | If the donator is a business, this field has "business."  Not sure this is consistently logged. |
-| ReceiptDeclined "Y" indicates the donator did not want a receipt (for tax purposes etc).  No receipt means no name or address information is collected. |
+| ReceiptDeclined | "Y" indicates the donator did not want a receipt (for tax purposes etc).  No receipt means no name or address information is collected. |
 | Address | If donator wanted receipt, address.  Address is mixed quality.  All numbers have been removed to protect privacy. |
 | AddToMailingList | "Y" indicates donator wants added to mailing list. |
 | VolunteerInterest | "Y" indicates donator would like to volunteer for Habitat. |
